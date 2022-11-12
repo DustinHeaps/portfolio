@@ -5,6 +5,7 @@ import triviaAppBg from './images/triviaAppBg.png';
 import faceFinderBg from './images/faceFinderBg.png';
 import crwnBg from './images/hats.png';
 import weatherBg from './images/weather.png';
+import superEats from './images/super-eats.png';
 
 const Projects = () => {
   return (
@@ -14,7 +15,7 @@ const Projects = () => {
         <figure className="effect">
           <div className="project-logo-container"> </div>
           <div className="background-container">
-            <img className="image-background" src={crwnBg} alt="project" />
+            <img className="image-background" src={superEats} alt="project" />
           </div>
           <figcaption>
             <div className="bottom-container">
@@ -23,7 +24,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/heaps12345/clothingApp"
+                  href="https://github.com/DustinHeaps/clothingApp"
                 >
                   Github
                 </a>
@@ -31,18 +32,50 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://crwn-clothing.herokuapp.com"
+                  href="https://super-eats.netlify.app"
                 >
                   Website
                 </a>
               </div>
             </div>
             <p className="description">
-              <span className="projects-title">CRWN Clothing</span> Built using React, Redux, React-Router,
-              Redux-Persist, Redux-Saga, and Firebase.
+              <span className="projects-title">Super Eats</span> Built using React,
+              GraphQL, Typescript, Apollo, and TailwindCSS, and NestJS
             </p>
           </figcaption>
         </figure>
+        <figure className="effect">
+        <div className="project-logo-container"> </div>
+        <div className="background-container">
+          <img className="image-background" src={crwnBg} alt="project" />
+        </div>
+        <figcaption>
+          <div className="bottom-container">
+            <div className="portfolio-links">
+              <a
+                className="project-button"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/DustinHeaps/clothingApp"
+              >
+                Github
+              </a>
+              <a
+                className="project-button"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://crwn-clothing.herokuapp.com"
+              >
+                Website
+              </a>
+            </div>
+          </div>
+          <p className="description">
+            <span className="projects-title">CRWN Clothing</span> Built using React, Redux, React-Router,
+            Redux-Persist, Redux-Saga, and Firebase.
+          </p>
+        </figcaption>
+      </figure>
         <figure className="effect">
           <div className="project-logo-container"> </div>
           <div className="background-container">
@@ -55,7 +88,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/heaps12345/bookeo"
+                  href="https://github.com/DustinHeaps/bookeo"
                 >
                   Github
                 </a>
@@ -87,7 +120,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/heaps12345/faceFinder"
+                  href="https://github.com/DustinHeaps/faceFinder"
                 >
                   Github
                 </a>
@@ -119,7 +152,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/heaps12345/triviaApp"
+                  href="https://github.com/DustinHeaps/triviaApp"
                 >
                   Github
                 </a>
@@ -127,7 +160,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://heaps12345.github.io/triviaApp/"
+                  href="https://DustinHeaps.github.io/triviaApp/"
                 >
                   Website
                 </a>
@@ -151,7 +184,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/heaps12345/ReactWeatherApp"
+                  href="https://github.com/DustinHeaps/ReactWeatherApp"
                 >
                   Github
                 </a>
@@ -159,7 +192,7 @@ const Projects = () => {
                   className="project-button"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://heaps12345.github.io/ReactWeatherApp/"
+                  href="https://DustinHeaps.github.io/ReactWeatherApp/"
                 >
                   Website
                 </a>
