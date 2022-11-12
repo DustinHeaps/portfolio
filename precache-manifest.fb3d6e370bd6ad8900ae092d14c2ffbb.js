@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "68cfc3c243d49e972ed3",
-    "url": "/portfolio/static/css/main.4e0aadaf.chunk.css"
+    "revision": "bf42aada043a11bf6c54",
+    "url": "/portfolio/static/css/main.5c7d3fe9.chunk.css"
   },
   {
-    "revision": "68cfc3c243d49e972ed3",
-    "url": "/portfolio/static/js/main.5311a7d6.chunk.js"
+    "revision": "bf42aada043a11bf6c54",
+    "url": "/portfolio/static/js/main.a99468ff.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "da5a7f479f2682f4d6ce",
-    "url": "/portfolio/static/css/2.e191c1a9.chunk.css"
+    "revision": "1f3c6a0fe7d33f66e276",
+    "url": "/portfolio/static/css/2.dc947d43.chunk.css"
   },
   {
-    "revision": "da5a7f479f2682f4d6ce",
-    "url": "/portfolio/static/js/2.3db122a2.chunk.js"
+    "revision": "1f3c6a0fe7d33f66e276",
+    "url": "/portfolio/static/js/2.97484080.chunk.js"
   },
   {
     "revision": "87afc57ad7095b2701a55860bd3f808d",
@@ -40,8 +40,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/weather.c4bcf87d.png"
   },
   {
-    "revision": "036d87d240058dfabbd7564f08406d8f",
-    "url": "/portfolio/static/media/Resume2020.036d87d2.pdf"
+    "revision": "081ef5f47c4a76d1d8da622f77c99bbc",
+    "url": "/portfolio/static/media/super-eats.081ef5f4.png"
+  },
+  {
+    "revision": "9a2d32bb9a45960f9b50b87de971eb07",
+    "url": "/portfolio/static/media/Resume2023.9a2d32bb.pdf"
   },
   {
     "revision": "f185e62fa6884b5b3fc4ddaa553b0e81",
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/logo-green.2527af91.svg"
   },
   {
-    "revision": "9a071c14355b24ed10f62913d126fce3",
+    "revision": "edbca9b78df71c0b146faa401f4871d6",
     "url": "/portfolio/index.html"
   }
 ];
