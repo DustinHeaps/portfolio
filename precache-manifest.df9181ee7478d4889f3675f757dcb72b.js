@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bf42aada043a11bf6c54",
+    "revision": "d271b2c92315d47dd5f8",
     "url": "/portfolio/static/css/main.5c7d3fe9.chunk.css"
   },
   {
-    "revision": "bf42aada043a11bf6c54",
-    "url": "/portfolio/static/js/main.a99468ff.chunk.js"
+    "revision": "d271b2c92315d47dd5f8",
+    "url": "/portfolio/static/js/main.38d2f56b.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/super-eats.081ef5f4.png"
   },
   {
-    "revision": "9a2d32bb9a45960f9b50b87de971eb07",
-    "url": "/portfolio/static/media/Resume2023.9a2d32bb.pdf"
+    "revision": "46db54633ca5c3d53d784fd3f52ebdc1",
+    "url": "/portfolio/static/media/DustinHeapsResume 2023.46db5463.pdf"
   },
   {
     "revision": "f185e62fa6884b5b3fc4ddaa553b0e81",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/logo-green.2527af91.svg"
   },
   {
-    "revision": "edbca9b78df71c0b146faa401f4871d6",
+    "revision": "d0c6c7a70c0fc5f3f09b470696a35a67",
     "url": "/portfolio/index.html"
   }
 ];
