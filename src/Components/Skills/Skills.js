@@ -1,7 +1,7 @@
 import React from 'react';
 import SkillsAside from './SkillsAside';
 import './Skills.css';
-import resume from './images/Resume2023.pdf';
+import resume from './images/DustinHeapsResume 2023.pdf';
 
 class Skills extends React.Component {
   constructor(props) {
